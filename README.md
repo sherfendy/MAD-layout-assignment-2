@@ -4,7 +4,7 @@ Nur Shairah Binti Muhd Affendy
 (1713600)
 
 ## Assignment Question
-Part 2 (30 Marks)
+**Part 2**
 
 Modify your current app to now have tabs. 
 You can implement tab by having a tabController. 
